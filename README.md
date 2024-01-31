@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<!--
-**Limbo-bot/Limbo-Bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Limbo bot with Lua for Stake.com
 If you want to compile yourself, then download the sourcecode and put cf.exe and node_modules folder from the release zip into the same directory as the Limbo.exe
